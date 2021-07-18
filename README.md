@@ -11,3 +11,9 @@ I'm Fernanda, 15 years old and I'm currently starting with programming, I really
 * Languages
   
     [![C](icons/c.png)]()
+   
+* Tools
+   
+   [![VsCode](icons/vscode.png)]()
+   [![CodeBlocks](icons/codeblocks.png)]()
+  
